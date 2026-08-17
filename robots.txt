@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ChaPDCha.github.io/reference-w91dw0/sitemap.xml
